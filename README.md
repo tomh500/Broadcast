@@ -14,11 +14,13 @@ The project use GUN2.0. if you hand out your build,you must open source.
 
 # Build
 
-first run` git clone https://github.com/tomh500/Broadcast.git `
+first run:
+` git clone https://github.com/tomh500/Broadcast.git `
 
 then cd into folder
 
-run` mvn clean package `
+run:
+` mvn clean package `
 
 you need download maven and jdk first.
 
