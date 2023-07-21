@@ -1,0 +1,8 @@
+name: Broadcast
+version: 1.0
+author: tomh500
+main: com.sunqi.broadcast.Broadcast
+commands:
+  broadcast:
+    description: Enable or disable death broadcast
+    usage: /broadcast <on|off> [itemDisplayName] [playerDisplayName]
