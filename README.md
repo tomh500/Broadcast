@@ -9,15 +9,18 @@ A Minecraft Server Plugin Work On Bukkit
 # Watch out
 This plugin api is 1.20,if you wanna run it at older version please build it on your version.
 
+# License
+The project use GUN2.0. if you hand out your build,you must open source.
+
 # Build
 
 firsg run
-git clone https://github.com/tomh500/Broadcast.git
+` git clone https://github.com/tomh500/Broadcast.git `
 
 then cd into folder
 
 run
-mvn clean package
+` mvn clean package `
 
 you need download maven and jdk first.
 
