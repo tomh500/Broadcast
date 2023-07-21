@@ -2,8 +2,10 @@
 A Minecraft Server Plugin Work On Bukkit
 
 # How to use
-1.Download Minecraft Server\n
+1.Download Minecraft Server
+
 2.Copy the plugin into plugins folder
+
 3.start your minecraft server.
 
 # Watch out
@@ -14,12 +16,14 @@ The project use GUN2.0. if you hand out your build,you must open source.
 
 # Build
 
-first run\n
+first run
+
 ` git clone https://github.com/tomh500/Broadcast.git `
 
 then cd into folder
 
-run:\n
+run:
+
 ` mvn clean package `
 
 you need download maven and jdk first.
