@@ -1,1 +1,11 @@
 
+enabled: true
+
+# 武器名称的颜色样式
+itemDisplayName: "&l&b%s&r"        # 粗体+青色
+
+# 玩家名称的颜色样式
+playerDisplayName: "&l&e%s&r"     # 粗体+黄色
+
+# 广播前缀
+prefix: "&6[&e击杀广播&6]&r"
