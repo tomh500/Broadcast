@@ -1,8 +1,6 @@
-name: Broadcast
-version: 2.0
-author: tomh500
-main: com.sunqi.broadcast.Broadcast
-commands:
-  broadcast:
-    description: Enable or disable death broadcast
-    usage: /broadcast <on|off> [itemDisplayName] [playerDisplayName]
+name: PetFox
+main: com.example.petfox.PetFoxPlugin
+version: 1.0.0
+api-version: 1.20
+author: YourName
+description: 每个玩家自动拥有一只跟随的宠物狐狸
